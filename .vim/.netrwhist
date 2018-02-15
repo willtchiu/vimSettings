@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/willchiu/Documents/190CV/hw2/hw2data'
+let g:netrw_dirhist_2='/Users/willchiu/Documents/190CV/hw2/hw2data/Iris_SVM'
+let g:netrw_dirhist_3='/Users/willchiu/Documents/MLprojects'
+let g:netrw_dirhist_4='/Users/willchiu/Documents/MLprojects/Credit-Card-fraud-prediction'
+let g:netrw_dirhist_5='/Users/willchiu/Documents/MLprojects'
+let g:netrw_dirhist_6='/Users/willchiu/Documents/MLprojects/Credit-Card-fraud-prediction'
+let g:netrw_dirhist_7='/Users/willchiu/Documents/MLprojects'
+let g:netrw_dirhist_8='/Users/willchiu/Documents/MLprojects/tfTut'
+let g:netrw_dirhist_9='/Users/willchiu/Documents/MLprojects/stockAnalysis/financeScraper/financeScraper'
